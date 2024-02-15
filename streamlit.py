@@ -7,7 +7,7 @@ import streamlit as st
 import plotly.graph_objects as go
 import datetime
 from datetime import date,timedelta
-import yfinance as yf
+#import yfinance as yf
 from statsmodels.tsa.arima_model import ARIMA
 from statsmodels.tsa.seasonal import seasonal_decompose
 import statsmodels.api as sm
