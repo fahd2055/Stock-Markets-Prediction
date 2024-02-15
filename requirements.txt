@@ -1,7 +1,6 @@
 pandas 
 numpy    
 streamlit  
-plotly.graph_objects  
 statsmodels.tsa.arima_model 
 statsmodels.tsa.seonal 
 statsmodels.api 
