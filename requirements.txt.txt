@@ -1,0 +1,11 @@
+pand 
+numpy
+matplotlib.pyplot 
+seaborn  
+plotly.express  
+streamlit  
+plotly.graph_objects  
+statsmodels.tsa.arima_model  ARIMA
+statsmodels.tsa.seonal  seonal_decompose
+statsmodels.api  sm
+statsmodels.tsa.stattools  adfuller
