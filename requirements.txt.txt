@@ -1,11 +1,11 @@
-pand 
+pandas 
 numpy
-matplotlib.pyplot 
+matplotlib
 seaborn  
 plotly.express  
 streamlit  
 plotly.graph_objects  
-statsmodels.tsa.arima_model  ARIMA
-statsmodels.tsa.seonal  seonal_decompose
-statsmodels.api  sm
-statsmodels.tsa.stattools  adfuller
+statsmodels.tsa.arima_model 
+statsmodels.tsa.seonal 
+statsmodels.api 
+statsmodels.tsa.stattools 
